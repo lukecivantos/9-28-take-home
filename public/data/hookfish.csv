@@ -1,0 +1,252 @@
+email,firstName,lastName,startDate,employmentType,department,level,city,country,gender,salary,bonus
+Donald.Morris@hookfish.com,Donald,Morris,2020-01-23,contractor,Management,2,Milwaukee,United States of America,Female,64329,12746
+Billy.Coleman@hookfish.com,Billy,Coleman,2012-05-24,contractor,Management,2,Aurora,United States of America,Female,176361,5917
+Daniel.Rivera@hookfish.com,Daniel,Rivera,2013-06-10,contractor,Management,1,Pittsburgh,United States of America,Male,248981,26767
+Louis.Henderson@hookfish.com,Louis,Henderson,2014-07-23,contractor,Operations,1,El Paso,United States of America,Female,279551,23724
+Carl.Lopez@hookfish.com,Carl,Lopez,2014-08-14,contractor,Front of house,5,Kansas City,United States of America,Male,64184,8661
+Maria.Bryant@hookfish.com,Maria,Bryant,2012-09-20,contractor,Management,3,Houston,United States of America,Female,206635,28331
+Terry.Williams@hookfish.com,Terry,Williams,2019-06-14,contractor,Management,1,Arlington,United States of America,Female,272083,16274
+Paula.Taylor@hookfish.com,Paula,Taylor,2012-07-21,contractor,Management,3,Stockton,United States of America,Male,214610,33939
+David.Young@hookfish.com,David,Young,2020-10-13,contractor,Front of house,2,New Orleans,United States of America,Male,163728,17639
+Annie.Turner@hookfish.com,Annie,Turner,2018-08-04,contractor,Front of house,3,Chicago,United States of America,Female,157416,16097
+Bonnie.Johnson@hookfish.com,Bonnie,Johnson,2016-08-17,contractor,Front of house,1,Chesapeake,United States of America,Female,165290,9990
+Jessica.Morgan@hookfish.com,Jessica,Morgan,2013-12-09,contractor,Kitchen,1,Garland,United States of America,Male,184247,25656
+Pamela.Lewis@hookfish.com,Pamela,Lewis,2019-08-18,contractor,Operations,1,Riverside,United States of America,Female,277759,13230
+Christopher.Griffin@hookfish.com,Christopher,Griffin,2015-06-10,contractor,Kitchen,3,Henderson,United States of America,Female,71656,9398
+Jeremy.Gonzales@hookfish.com,Jeremy,Gonzales,2013-03-23,contractor,Operations,1,New York,United States of America,Female,146245,14635
+Jonathan.Long@hookfish.com,Jonathan,Long,2014-11-25,contractor,Kitchen,3,Phoenix,United States of America,Male,170164,11115
+Janice.Diaz@hookfish.com,Janice,Diaz,2018-07-31,contractor,Operations,4,Garland,United States of America,Female,152413,12191
+Michael.Adams@hookfish.com,Michael,Adams,2017-01-24,contractor,Operations,1,St. Louis,United States of America,Male,318856,24601
+Elizabeth.Allen@hookfish.com,Elizabeth,Allen,2018-02-15,contractor,Management,5,Charlotte,United States of America,Female,295548,30581
+Wanda.Simmons@hookfish.com,Wanda,Simmons,2019-10-03,contractor,Kitchen,1,Denver,United States of America,Female,250954,10926
+Martha.Rogers@hookfish.com,Martha,Rogers,2016-07-14,contractor,Kitchen,3,Albuquerque,United States of America,Male,168102,11453
+Russell.Hughes@hookfish.com,Russell,Hughes,2017-01-01,contractor,Kitchen,2,Lubbock,United States of America,Male,339211,26932
+Joan.Anderson@hookfish.com,Joan,Anderson,2013-10-03,contractor,Management,2,Colorado Springs,United States of America,Female,265192,24875
+Jimmy.Washington@hookfish.com,Jimmy,Washington,2014-01-04,contractor,Kitchen,5,San Bernardino,United States of America,Female,112740,11463
+Matthew.Gonzalez@hookfish.com,Matthew,Gonzalez,2019-12-17,contractor,Front of house,1,Orlando,United States of America,Male,343238,16318
+Joyce.Kelly@hookfish.com,Joyce,Kelly,2019-06-19,contractor,Management,1,Cincinnati,United States of America,Female,68824,26058
+Paul.Lee@hookfish.com,Paul,Lee,2017-05-20,contractor,Operations,2,Durham,United States of America,Female,149890,33359
+Ernest.Alexander@hookfish.com,Ernest,Alexander,2015-09-20,contractor,Kitchen,3,Boise,United States of America,Female,189279,34655
+Shawn.Ward@hookfish.com,Shawn,Ward,2014-02-23,contractor,Management,5,Greensboro,United States of America,Male,115840,12475
+Linda.Ramirez@hookfish.com,Linda,Ramirez,2016-12-29,contractor,Operations,2,Kansas City,United States of America,Female,154686,22131
+Kathy.Collins@hookfish.com,Kathy,Collins,2018-05-25,contractor,Management,1,Glendale,United States of America,Male,131095,32755
+Jesse.Green@hookfish.com,Jesse,Green,2020-10-28,contractor,Front of house,5,Jacksonville,United States of America,Female,169340,20021
+Cheryl.Thomas@hookfish.com,Cheryl,Thomas,2017-09-01,contractor,Management,1,Henderson,United States of America,Female,181655,24798
+Anthony.Phillips@hookfish.com,Anthony,Phillips,2017-08-22,contractor,Operations,1,Akron,United States of America,Male,158535,29111
+Sara.Perez@hookfish.com,Sara,Perez,2018-03-15,contractor,Kitchen,5,Colorado Springs,United States of America,Male,84325,25103
+Evelyn.Howard@hookfish.com,Evelyn,Howard,2018-02-11,contractor,Front of house,2,Washington,United States of America,Female,117821,5339
+Jeffrey.Nelson@hookfish.com,Jeffrey,Nelson,2012-11-20,contractor,Kitchen,1,San Antonio,United States of America,Female,290221,26884
+Julia.Wilson@hookfish.com,Julia,Wilson,2017-05-29,contractor,Front of house,2,Stockton,United States of America,Male,342415,25109
+Ann.Brooks@hookfish.com,Ann,Brooks,2015-10-12,contractor,Operations,5,Akron,United States of America,Female,65620,15223
+Irene.Walker@hookfish.com,Irene,Walker,2015-08-30,contractor,Operations,5,Henderson,United States of America,Female,248387,27665
+Betty.Cook@hookfish.com,Betty,Cook,2015-11-04,contractor,Management,4,Corpus Christi,United States of America,Female,272787,19579
+Kathleen.Martinez@hookfish.com,Kathleen,Martinez,2016-10-01,contractor,Front of house,2,El Paso,United States of America,Male,275703,17254
+Randy.Peterson@hookfish.com,Randy,Peterson,2014-04-14,contractor,Front of house,2,Stockton,United States of America,Female,178612,23446
+Stephanie.Sanchez@hookfish.com,Stephanie,Sanchez,2020-10-20,contractor,Management,3,Los Angeles,United States of America,Male,258990,10384
+Keith.Foster@hookfish.com,Keith,Foster,2016-08-28,contractor,Front of house,2,Las Vegas,United States of America,Female,176110,17982
+Joe.Baker@hookfish.com,Joe,Baker,2019-03-29,contractor,Management,3,Chicago,United States of America,Female,92978,25332
+Jennifer.Brown@hookfish.com,Jennifer,Brown,2017-05-01,contractor,Kitchen,1,Birmingham,United States of America,Male,270844,6537
+Thomas.Jackson@hookfish.com,Thomas,Jackson,2012-05-10,contractor,Operations,2,Philadelphia,United States of America,Male,346077,14275
+Christopher.Lopez@hookfish.com,Christopher,Lopez,2017-06-10,contractor,Operations,5,Riverside,United States of America,Female,319800,20060
+Kathleen.Butler@hookfish.com,Kathleen,Butler,2014-03-25,contractor,Management,2,Greensboro,United States of America,Female,319111,25353
+John.Stewart@hookfish.com,John,Stewart,2013-12-17,contractor,Management,5,Milwaukee,United States of America,Male,315335,32986
+Mark.Brown@hookfish.com,Mark,Brown,2017-05-30,contractor,Front of house,3,Houston,United States of America,Female,144820,30333
+Cheryl.Scott@hookfish.com,Cheryl,Scott,2020-08-29,contractor,Front of house,4,Detroit,United States of America,Female,90096,19661
+Rose.Adams@hookfish.com,Rose,Adams,2017-03-04,contractor,Front of house,5,St. Paul,United States of America,Female,185882,5973
+Rachel.Russell@hookfish.com,Rachel,Russell,2018-07-31,contractor,Front of house,1,Glendale,United States of America,Male,305872,28067
+Randy.Ward@hookfish.com,Randy,Ward,2018-05-24,contractor,Operations,5,Orlando,United States of America,Female,89372,20491
+Wayne.Cook@hookfish.com,Wayne,Cook,2015-10-22,contractor,Kitchen,1,Boston,United States of America,Male,195591,22032
+Amy.Gonzalez@hookfish.com,Amy,Gonzalez,2015-05-04,contractor,Management,3,Arlington,United States of America,Female,144533,21175
+Todd.Long@hookfish.com,Todd,Long,2012-12-08,contractor,Management,3,North Hempstead,United States of America,Female,94120,7516
+Douglas.Roberts@hookfish.com,Douglas,Roberts,2014-04-20,contractor,Operations,5,North Hempstead,United States of America,Male,278276,22362
+Harold.Thompson@hookfish.com,Harold,Thompson,2020-10-05,contractor,Operations,1,Tulsa,United States of America,Male,311564,21192
+Louis.Powell@hookfish.com,Louis,Powell,2014-01-04,contractor,Kitchen,2,New Orleans,United States of America,Female,187153,7166
+Ashley.Kelly@hookfish.com,Ashley,Kelly,2017-09-06,full time,Operations,3,Baltimore,United States of America,Female,264202,33220
+Henry.Richardson@hookfish.com,Henry,Richardson,2019-02-27,full time,Management,5,Cleveland,United States of America,Male,238321,9182
+Roy.Martin@hookfish.com,Roy,Martin,2012-04-02,full time,Kitchen,4,Durham,United States of America,Female,170498,32440
+Janet.Coleman@hookfish.com,Janet,Coleman,2016-06-01,full time,Management,5,New Orleans,United States of America,Female,203590,22105
+Virginia.Hall@hookfish.com,Virginia,Hall,2013-04-01,full time,Front of house,5,Houston,United States of America,Female,311820,28473
+Christine.Perry@hookfish.com,Christine,Perry,2013-04-28,full time,Kitchen,3,Mesa,United States of America,Male,187413,15995
+Heather.Harris@hookfish.com,Heather,Harris,2016-12-23,full time,Management,3,Huntington,United States of America,Female,185829,27673
+Christina.Simmons@hookfish.com,Christina,Simmons,2017-06-12,full time,Management,4,Anchorage,United States of America,Male,321937,33918
+Anna.James@hookfish.com,Anna,James,2018-12-08,full time,Management,1,Stockton,United States of America,Female,267827,19396
+Angela.Sanchez@hookfish.com,Angela,Sanchez,2017-08-06,full time,Kitchen,3,Cleveland,United States of America,Female,83696,34428
+Earl.Johnson@hookfish.com,Earl,Johnson,2017-10-26,full time,Front of house,5,Garland,United States of America,Male,224784,24617
+Clarence.Allen@hookfish.com,Clarence,Allen,2018-04-09,full time,Kitchen,5,Minneapolis,United States of America,Male,275835,6212
+Matthew.Howard@hookfish.com,Matthew,Howard,2017-08-17,full time,Operations,2,Honolulu,United States of America,Female,160277,16964
+Nancy.Barnes@hookfish.com,Nancy,Barnes,2020-01-27,full time,Management,4,Kansas City,United States of America,Female,261317,7578
+Roger.Thomas@hookfish.com,Roger,Thomas,2019-07-15,full time,Front of house,3,Long Beach,United States of America,Male,317508,18480
+Jean.Patterson@hookfish.com,Jean,Patterson,2014-09-16,full time,Front of house,1,New York,United States of America,Female,328191,18836
+Sarah.Garcia@hookfish.com,Sarah,Garcia,2020-02-16,full time,Kitchen,4,Atlanta,United States of America,Female,105775,17023
+Arthur.Phillips@hookfish.com,Arthur,Phillips,2016-05-16,full time,Kitchen,1,Jacksonville,United States of America,Female,166555,11530
+Willie.Henderson@hookfish.com,Willie,Henderson,2014-12-13,full time,Operations,2,Stockton,United States of America,Male,234174,33214
+Ernest.Jackson@hookfish.com,Ernest,Jackson,2015-09-19,full time,Kitchen,2,Honolulu,United States of America,Female,343886,8916
+Marilyn.Clark@hookfish.com,Marilyn,Clark,2014-02-06,full time,Operations,2,San Antonio,United States of America,Male,144239,22624
+Deborah.Flores@hookfish.com,Deborah,Flores,2012-02-17,full time,Operations,2,Miami,United States of America,Female,100483,5961
+Sean.Williams@hookfish.com,Sean,Williams,2019-10-18,full time,Operations,3,Sacramento,United States of America,Female,115360,21026
+Richard.Rodriguez@hookfish.com,Richard,Rodriguez,2013-01-11,full time,Front of house,4,Anchorage,United States of America,Male,249736,17188
+Steve.Cox@hookfish.com,Steve,Cox,2019-08-16,full time,Kitchen,3,Virginia Beach,United States of America,Male,183559,5615
+Barbara.Murphy@hookfish.com,Barbara,Murphy,2016-03-15,full time,Kitchen,2,Long Beach,United States of America,Female,75605,32220
+Bruce.Robinson@hookfish.com,Bruce,Robinson,2019-08-22,full time,Front of house,2,Honolulu,United States of America,Female,167921,20026
+Nicole.King@hookfish.com,Nicole,King,2020-04-07,full time,Operations,4,Akron,United States of America,Male,146311,11302
+Gary.Lee@hookfish.com,Gary,Lee,2017-03-27,full time,Management,3,Riverside,United States of America,Female,293742,34506
+Raymond.Griffin@hookfish.com,Raymond,Griffin,2018-09-27,full time,Operations,4,Boston,United States of America,Female,159716,30767
+Keith.Evans@hookfish.com,Keith,Evans,2013-08-17,full time,Management,2,Memphis,United States of America,Female,216275,21114
+Theresa.Alexander@hookfish.com,Theresa,Alexander,2020-06-11,full time,Operations,2,Oklahoma City,United States of America,Male,160378,26549
+Bobby.Perez@hookfish.com,Bobby,Perez,2018-11-17,full time,Management,5,St. Louis,United States of America,Female,90361,33302
+Daniel.Rivera@hookfish.com,Daniel,Rivera,2020-03-24,full time,Kitchen,5,Pittsburgh,United States of America,Male,139438,19079
+Eric.Ross@hookfish.com,Eric,Ross,2020-05-11,full time,Front of house,2,Anchorage,United States of America,Female,197073,20443
+Marie.Bell@hookfish.com,Marie,Bell,2014-04-26,full time,Management,5,Tulsa,United States of America,Female,221173,12472
+Carl.Wright@hookfish.com,Carl,Wright,2020-10-06,full time,Management,1,Riverside,United States of America,Male,324398,23399
+Ann.Price@hookfish.com,Ann,Price,2017-10-22,full time,Operations,3,Oklahoma City,United States of America,Male,331385,22923
+Carlos.Bennett@hookfish.com,Carlos,Bennett,2014-08-27,full time,Front of house,4,Jersey City,United States of America,Female,273356,34620
+Michelle.Hernandez@hookfish.com,Michelle,Hernandez,2012-11-04,full time,Operations,1,Buffalo,United States of America,Female,80667,6988
+Dennis.Cooper@hookfish.com,Dennis,Cooper,2016-07-14,full time,Management,4,Chandler,United States of America,Male,184887,26943
+Jesse.Watson@hookfish.com,Jesse,Watson,2016-10-09,full time,Front of house,2,Modesto,United States of America,Female,84921,9508
+Shirley.Bailey@hookfish.com,Shirley,Bailey,2014-02-15,full time,Management,3,Kansas City,United States of America,Female,58829,19469
+Phillip.Carter@hookfish.com,Phillip,Carter,2012-07-28,full time,Operations,2,Montgomery,United States of America,Female,124039,28956
+Irene.Diaz@hookfish.com,Irene,Diaz,2019-11-21,full time,Operations,1,Arlington,United States of America,Male,213911,21006
+Edward.Turner@hookfish.com,Edward,Turner,2013-05-01,full time,Front of house,3,Bakersfield,United States of America,Female,147151,31308
+Kathy.Morgan@hookfish.com,Kathy,Morgan,2020-06-21,full time,Kitchen,5,Detroit,United States of America,Male,224066,23412
+Kimberly.Miller@hookfish.com,Kimberly,Miller,2015-04-17,full time,Management,4,Montgomery,United States of America,Female,167830,10130
+Donna.Sanders@hookfish.com,Donna,Sanders,2012-01-15,full time,Management,5,San Diego,United States of America,Female,339995,21413
+Sandra.Mitchell@hookfish.com,Sandra,Mitchell,2020-10-18,full time,Management,4,Austin,United States of America,Male,233637,12446
+Beverly.Bryant@hookfish.com,Beverly,Bryant,2018-08-05,full time,Front of house,2,Arlington,United States of America,Male,212276,12628
+Wanda.White@hookfish.com,Wanda,White,2012-10-24,full time,Front of house,5,Anchorage,United States of America,Female,229799,17337
+Mary.Young@hookfish.com,Mary,Young,2017-04-14,full time,Operations,4,Corpus Christi,United States of America,Female,76171,22593
+Paul.Anderson@hookfish.com,Paul,Anderson,2014-08-14,full time,Kitchen,2,Long Beach,United States of America,Male,59339,27844
+Juan.Lewis@hookfish.com,Juan,Lewis,2017-08-28,full time,Management,5,Huntington,United States of America,Female,136757,34426
+Craig.Taylor@hookfish.com,Craig,Taylor,2016-05-19,full time,Operations,1,Atlanta,United States of America,Female,275931,25829
+Ruth.Collins@hookfish.com,Ruth,Collins,2020-01-28,full time,Operations,4,Chula Vista,United States of America,Female,56261,24140
+Phyllis.Gray@hookfish.com,Phyllis,Gray,2018-06-28,full time,Kitchen,4,Los Angeles,United States of America,Male,317237,34119
+Samuel.Parker@hookfish.com,Samuel,Parker,2013-07-05,full time,Management,1,Minneapolis,United States of America,Female,320850,29810
+Julie.Campbell@hookfish.com,Julie,Campbell,2016-11-21,full time,Management,4,Norfolk,United States of America,Male,154332,15729
+Lisa.Brooks@hookfish.com,Lisa,Brooks,2019-10-15,full time,Kitchen,1,Birmingham,United States of America,Female,179990,32580
+Lois.Edwards@hookfish.com,Lois,Edwards,2013-02-06,full time,Management,2,Raleigh,United States of America,Female,75545,16476
+Frank.Jones@hookfish.com,Frank,Jones,2020-02-07,full time,Operations,4,Nashville-Davidson,United States of America,Male,323250,27369
+Teresa.Hughes@hookfish.com,Teresa,Hughes,2016-08-23,full time,Front of house,5,Newark,United States of America,Male,183098,8941
+Justin.Martinez@hookfish.com,Justin,Martinez,2016-05-22,full time,Management,1,Mesa,United States of America,Female,160611,33481
+Andrew.Hill@hookfish.com,Andrew,Hill,2012-09-18,full time,Kitchen,5,St. Louis,United States of America,Female,208253,24068
+Aaron.Torres@hookfish.com,Aaron,Torres,2018-04-27,full time,Front of house,2,Cincinnati,United States of America,Male,286148,22632
+Elizabeth.Peterson@hookfish.com,Elizabeth,Peterson,2014-01-20,full time,Operations,5,Stockton,United States of America,Female,212316,29139
+Ruby.Ramirez@hookfish.com,Ruby,Ramirez,2016-01-10,full time,Kitchen,5,Minneapolis,United States of America,Female,166519,24428
+Judith.Walker@hookfish.com,Judith,Walker,2019-12-24,full time,Management,5,Montgomery,United States of America,Female,82224,13570
+Anne.Gonzales@hookfish.com,Anne,Gonzales,2017-09-22,full time,Operations,1,Kansas City,United States of America,Male,209901,20776
+Helen.Green@hookfish.com,Helen,Green,2020-10-12,full time,Kitchen,5,St. Louis,United States of America,Female,52696,8921
+Michael.Moore@hookfish.com,Michael,Moore,2015-05-24,full time,Operations,5,San Jose,United States of America,Male,328404,30673
+Victor.Baker@hookfish.com,Victor,Baker,2014-06-14,full time,Management,4,Plano,United States of America,Female,242097,20986
+Kelly.Foster@hookfish.com,Kelly,Foster,2019-08-02,full time,Front of house,1,Cincinnati,United States of America,Female,130052,14885
+Maria.Wilson@hookfish.com,Maria,Wilson,2014-07-19,full time,Management,2,San Antonio,United States of America,Male,104853,32764
+Karen.Wood@hookfish.com,Karen,Wood,2019-02-12,full time,Front of house,2,Chula Vista,United States of America,Male,237049,25459
+Rebecca.Morris@hookfish.com,Rebecca,Morris,2012-11-08,full time,Operations,1,Baton Rouge,United States of America,Female,68461,13669
+Robert.Smith@hookfish.com,Robert,Smith,2015-11-29,full time,Kitchen,1,Long Beach,United States of America,Female,327413,14719
+Benjamin.Jenkins@hookfish.com,Benjamin,Jenkins,2015-06-23,full time,Management,4,Toledo,United States of America,Male,207864,30951
+Ronald.Davis@hookfish.com,Ronald,Davis,2018-11-15,full time,Kitchen,1,San Francisco,United States of America,Female,306613,5315
+Fred.Rogers@hookfish.com,Fred,Rogers,2013-02-27,full time,Kitchen,1,Riverside,United States of America,Female,229824,25225
+James.Washington@hookfish.com,James,Washington,2017-12-28,full time,Front of house,5,Houston,United States of America,Female,309720,27458
+Martin.Nelson@hookfish.com,Martin,Nelson,2015-06-13,full time,Kitchen,1,Newark,United States of America,Male,309524,5363
+Kenneth.Reed@hookfish.com,Kenneth,Reed,2019-03-15,full time,Operations,4,Newark,United States of America,Female,191277,16904
+Rebecca.Rodriguez@hookfish.com,Rebecca,Rodriguez,2020-04-15,full time,Kitchen,2,Jacksonville,United States of America,Male,222583,23979
+Carolyn.Garcia@hookfish.com,Carolyn,Garcia,2013-10-03,full time,Management,3,Oklahoma City,United States of America,Female,246856,24346
+Carol.Powell@hookfish.com,Carol,Powell,2015-11-03,full time,Front of house,1,Austin,United States of America,Female,103229,32965
+Walter.Jackson@hookfish.com,Walter,Jackson,2012-01-09,full time,Kitchen,5,Baltimore,United States of America,Male,196021,24339
+Henry.Johnson@hookfish.com,Henry,Johnson,2016-03-09,full time,Operations,1,Nashville-Davidson,United States of America,Male,255446,5359
+Carl.Adams@hookfish.com,Carl,Adams,2017-01-13,full time,Kitchen,2,Denver,United States of America,Female,236488,5605
+Louis.Gonzalez@hookfish.com,Louis,Gonzalez,2015-03-31,full time,Management,1,Norfolk,United States of America,Female,70976,11034
+Christina.Price@hookfish.com,Christina,Price,2019-11-25,full time,Kitchen,3,Huntington,United States of America,Male,272287,6752
+Stephanie.Scott@hookfish.com,Stephanie,Scott,2020-03-28,full time,Front of house,5,Mesa,United States of America,Female,268005,25745
+Ralph.Hernandez@hookfish.com,Ralph,Hernandez,2019-03-30,full time,Kitchen,4,Minneapolis,United States of America,Female,290554,17698
+Evelyn.Brooks@hookfish.com,Evelyn,Brooks,2013-11-15,full time,Operations,4,Mesa,United States of America,Female,137751,32121
+Arthur.Miller@hookfish.com,Arthur,Miller,2020-03-12,full time,Operations,1,Minneapolis,United States of America,Male,203855,8505
+Kenneth.James@hookfish.com,Kenneth,James,2017-09-09,full time,Management,2,Indianapolis,United States of America,Female,64428,6197
+Carlos.Robinson@hookfish.com,Carlos,Robinson,2014-03-23,full time,Kitchen,2,Santa Ana,United States of America,Male,212721,31787
+Lillian.Taylor@hookfish.com,Lillian,Taylor,2016-03-26,full time,Kitchen,1,Durham,United States of America,Female,191537,29331
+Patrick.Moore@hookfish.com,Patrick,Moore,2016-11-03,full time,Management,2,Durham,United States of America,Female,124053,31539
+Amanda.Henderson@hookfish.com,Amanda,Henderson,2018-01-24,full time,Operations,1,Seattle,United States of America,Male,170964,26908
+Susan.Lee@hookfish.com,Susan,Lee,2016-02-11,full time,Front of house,1,Virginia Beach,United States of America,Male,102757,5961
+Catherine.Williams@hookfish.com,Catherine,Williams,2017-01-05,full time,Front of house,4,Greensboro,United States of America,Female,285335,28242
+Mary.Sanchez@hookfish.com,Mary,Sanchez,2014-01-18,full time,Operations,2,Laredo,United States of America,Female,205012,17101
+Jean.Walker@hookfish.com,Jean,Walker,2016-03-15,full time,Front of house,5,Arlington,United States of America,Male,178151,7576
+Rose.Davis@hookfish.com,Rose,Davis,2013-02-09,full time,Front of house,4,Long Beach,United States of America,Female,217179,16841
+Irene.Anderson@hookfish.com,Irene,Anderson,2017-12-29,full time,Management,3,Chesapeake,United States of America,Female,161609,20445
+Betty.Cox@hookfish.com,Betty,Cox,2015-04-03,full time,Front of house,1,Arlington,United States of America,Female,72485,26488
+Julie.Campbell@hookfish.com,Julie,Campbell,2019-01-20,full time,Management,4,Memphis,United States of America,Male,281304,23249
+Sean.Lewis@hookfish.com,Sean,Lewis,2019-10-03,full time,Kitchen,1,Tulsa,United States of America,Female,74755,7105
+Brandon.Simmons@hookfish.com,Brandon,Simmons,2018-12-22,full time,Kitchen,2,Newark,United States of America,Male,139733,31845
+Beverly.Rogers@hookfish.com,Beverly,Rogers,2019-03-24,full time,Kitchen,5,Seattle,United States of America,Female,82895,13611
+Laura.Clark@hookfish.com,Laura,Clark,2015-09-11,full time,Management,5,Plano,United States of America,Female,299704,33835
+Shawn.Lopez@hookfish.com,Shawn,Lopez,2018-02-20,full time,Kitchen,1,Garland,United States of America,Male,57675,7284
+Victor.Ward@hookfish.com,Victor,Ward,2015-09-02,full time,Kitchen,4,Orlando,United States of America,Male,334210,15252
+Joan.Smith@hookfish.com,Joan,Smith,2018-12-26,full time,Management,2,Tampa,United States of America,Female,213807,14325
+Virginia.Cooper@hookfish.com,Virginia,Cooper,2018-08-09,full time,Operations,3,Reno,United States of America,Female,140679,26670
+Billy.Patterson@hookfish.com,Billy,Patterson,2019-04-27,full time,Front of house,5,Montgomery,United States of America,Male,280761,15240
+Jennifer.Bell@hookfish.com,Jennifer,Bell,2016-09-23,full time,Management,3,Arlington,United States of America,Female,57838,14951
+Scott.Hughes@hookfish.com,Scott,Hughes,2017-11-17,full time,Operations,5,Milwaukee,United States of America,Female,104065,30922
+Michael.Griffin@hookfish.com,Michael,Griffin,2014-07-17,full time,Front of house,3,Riverside,United States of America,Female,264572,30528
+Phillip.Martinez@hookfish.com,Phillip,Martinez,2020-07-11,full time,Operations,4,Laredo,United States of America,Male,314970,30299
+Ryan.Jenkins@hookfish.com,Ryan,Jenkins,2020-04-27,full time,Front of house,1,Kansas City,United States of America,Female,332040,21060
+Joshua.Barnes@hookfish.com,Joshua,Barnes,2014-08-04,full time,Management,4,Greensboro,United States of America,Male,157713,16479
+Patricia.Green@hookfish.com,Patricia,Green,2015-10-06,full time,Operations,2,Cleveland,United States of America,Female,124561,11018
+Sandra.Harris@hookfish.com,Sandra,Harris,2017-09-21,full time,Kitchen,1,Honolulu,United States of America,Female,212943,19395
+Jacqueline.Washington@hookfish.com,Jacqueline,Washington,2014-03-02,full time,Management,4,Sacramento,United States of America,Male,278724,21400
+Nancy.Long@hookfish.com,Nancy,Long,2012-06-18,full time,Management,2,Garland,United States of America,Male,277604,21573
+Sharon.Stewart@hookfish.com,Sharon,Stewart,2018-08-22,full time,Management,3,Indianapolis,United States of America,Female,89833,8263
+Edward.Hall@hookfish.com,Edward,Hall,2015-07-03,full time,Kitchen,3,Arlington,United States of America,Female,134144,32007
+Janice.Gonzales@hookfish.com,Janice,Gonzales,2015-01-25,full time,Front of house,1,Rochester,United States of America,Male,296390,6327
+Jeffrey.Bailey@hookfish.com,Jeffrey,Bailey,2018-08-18,full time,Kitchen,3,San Jose,United States of America,Female,323747,6612
+Keith.Reed@hookfish.com,Keith,Reed,2014-11-29,full time,Management,1,El Paso,United States of America,Female,131124,33496
+John.Alexander@hookfish.com,John,Alexander,2013-07-22,full time,Operations,4,St. Petersburg,United States of America,Female,118981,14241
+Harold.Butler@hookfish.com,Harold,Butler,2018-09-22,full time,Operations,1,Dallas,United States of America,Male,198475,22973
+Lori.Murphy@hookfish.com,Lori,Murphy,2019-02-05,full time,Front of house,4,Henderson,United States of America,Female,103480,25048
+Ashley.Turner@hookfish.com,Ashley,Turner,2020-07-24,full time,Kitchen,5,San Diego,United States of America,Male,62797,17032
+Timothy.Thompson@hookfish.com,Timothy,Thompson,2018-01-15,full time,Operations,1,Long Beach,United States of America,Female,337010,24752
+Diane.Ramirez@hookfish.com,Diane,Ramirez,2017-11-12,full time,Management,1,Bakersfield,United States of America,Female,169189,34270
+Eugene.Gray@hookfish.com,Eugene,Gray,2016-06-29,full time,Kitchen,4,Aurora,United States of America,Male,220851,32470
+Barbara.Morris@hookfish.com,Barbara,Morris,2017-01-06,full time,Front of house,3,San Francisco,United States of America,Male,201536,15962
+Tina.Martin@hookfish.com,Tina,Martin,2018-08-26,full time,Management,2,Toledo,United States of America,Female,164200,7455
+James.Howard@hookfish.com,James,Howard,2016-06-19,full time,Kitchen,3,Pittsburgh,United States of America,Female,224121,14494
+Angela.Bryant@hookfish.com,Angela,Bryant,2019-02-19,full time,Front of house,5,Mesa,United States of America,Male,290040,25823
+Anna.Bennett@hookfish.com,Anna,Bennett,2015-10-05,full time,Operations,1,Cleveland,United States of America,Female,343212,28025
+Peter.King@hookfish.com,Peter,King,2012-03-14,full time,Management,1,Cleveland,United States of America,Female,235977,31231
+Lawrence.Foster@hookfish.com,Lawrence,Foster,2016-10-30,full time,Operations,5,Greensboro,United States of America,Female,57424,5109
+Frances.Carter@hookfish.com,Frances,Carter,2014-10-09,full time,Operations,4,Reno,United States of America,Male,333231,11092
+Jerry.Roberts@hookfish.com,Jerry,Roberts,2016-07-09,full time,Kitchen,1,Omaha,United States of America,Female,82046,24055
+Ann.Evans@hookfish.com,Ann,Evans,2017-09-19,full time,Management,2,Rochester,United States of America,Male,106478,10677
+Cheryl.Diaz@hookfish.com,Cheryl,Diaz,2019-06-29,full time,Front of house,3,Aurora,United States of America,Female,104613,28093
+Bobby.Ross@hookfish.com,Bobby,Ross,2017-03-26,full time,Management,5,Dallas,United States of America,Female,143458,20753
+Douglas.Torres@hookfish.com,Douglas,Torres,2015-06-14,full time,Operations,1,Sacramento,United States of America,Male,305921,12583
+Paul.Thomas@hookfish.com,Paul,Thomas,2013-03-21,full time,Management,5,San Jose,United States of America,Male,149195,31369
+Tammy.Collins@hookfish.com,Tammy,Collins,2013-02-07,full time,Kitchen,4,Washington,United States of America,Female,332494,20818
+Karen.Peterson@hookfish.com,Karen,Peterson,2018-11-21,full time,Management,3,Arlington,United States of America,Female,163663,31127
+Martha.Edwards@hookfish.com,Martha,Edwards,2020-10-01,full time,Management,5,Washington,United States of America,Male,231268,11110
+Theresa.Nelson@hookfish.com,Theresa,Nelson,2015-04-23,full time,Management,5,El Paso,United States of America,Female,76325,10645
+Ruby.Phillips@hookfish.com,Ruby,Phillips,2020-06-21,full time,Front of house,1,Sacramento,United States of America,Female,274486,25869
+Andrew.Russell@hookfish.com,Andrew,Russell,2013-02-09,full time,Operations,2,New Orleans,United States of America,Female,156339,7045
+Mildred.Morgan@hookfish.com,Mildred,Morgan,2015-03-30,full time,Front of house,5,Virginia Beach,United States of America,Male,158743,17328
+Joseph.Coleman@hookfish.com,Joseph,Coleman,2013-05-07,full time,Operations,5,Wichita,United States of America,Female,346202,22986
+David.Wright@hookfish.com,David,Wright,2014-01-10,full time,Operations,1,El Paso,United States of America,Male,189583,12254
+Charles.Baker@hookfish.com,Charles,Baker,2012-11-16,full time,Kitchen,4,Wichita,United States of America,Female,231769,5297
+Nicholas.Kelly@hookfish.com,Nicholas,Kelly,2018-07-22,full time,Front of house,2,Anchorage,United States of America,Female,115881,33046
+Nicole.Wood@hookfish.com,Nicole,Wood,2014-10-02,full time,Operations,2,Jacksonville,United States of America,Male,335840,16273
+Alice.Richardson@hookfish.com,Alice,Richardson,2016-06-20,full time,Management,4,Chandler,United States of America,Male,239566,32985
+Robert.Cook@hookfish.com,Robert,Cook,2019-04-01,full time,Operations,4,Portland,United States of America,Female,294367,33559
+Sarah.Perry@hookfish.com,Sarah,Perry,2017-09-25,full time,Management,3,Santa Ana,United States of America,Female,295781,34673
+Todd.Parker@hookfish.com,Todd,Parker,2018-12-08,full time,Operations,2,San Jose,United States of America,Male,52327,20062
+Gerald.Watson@hookfish.com,Gerald,Watson,2020-04-04,full time,Front of house,2,Chicago,United States of America,Female,296648,33239
+Jimmy.Allen@hookfish.com,Jimmy,Allen,2016-05-17,full time,Management,4,Huntington,United States of America,Female,213520,16173
+Howard.Wilson@hookfish.com,Howard,Wilson,2012-03-05,full time,Operations,4,Raleigh,United States of America,Female,252193,26460
+Debra.White@hookfish.com,Debra,White,2012-06-20,full time,Operations,2,Orlando,United States of America,Male,230316,13688
+Albert.Perez@hookfish.com,Albert,Perez,2018-06-24,full time,Management,4,San Francisco,United States of America,Female,321891,25239
+Judy.Sanders@hookfish.com,Judy,Sanders,2015-11-15,full time,Front of house,4,San Bernardino,United States of America,Male,237175,14489
+Stephen.Jones@hookfish.com,Stephen,Jones,2013-12-27,full time,Kitchen,5,Chicago,United States of America,Female,301416,5109
+Heather.Flores@hookfish.com,Heather,Flores,2018-01-14,full time,Front of house,1,Plano,United States of America,Female,258589,11778
+Justin.Young@hookfish.com,Justin,Young,2012-01-29,full time,Kitchen,4,Montgomery,United States of America,Male,143908,12073
+Jesse.Mitchell@hookfish.com,Jesse,Mitchell,2012-08-01,full time,Front of house,2,Memphis,United States of America,Male,175592,14627
+Ruth.Rivera@hookfish.com,Ruth,Rivera,2019-12-12,full time,Front of house,4,Lexington-Fayette,United States of America,Female,300287,13044
+Gary.Brown@hookfish.com,Gary,Brown,2012-11-02,full time,Management,5,Fort Worth,United States of America,Female,315074,12650
+Fred.Hill@hookfish.com,Fred,Hill,2017-04-29,full time,Operations,5,New Orleans,United States of America,Male,104741,25289
+Carlos.White@hookfish.com,Carlos,White,2012-06-07,full time,Front of house,1,Oklahoma City,United States of America,Female,158128,5056
+Rose.Cox@hookfish.com,Rose,Cox,2018-11-19,full time,Kitchen,4,Plano,United States of America,Female,154568,28657
+Jose.Perry@hookfish.com,Jose,Perry,2014-07-05,full time,Front of house,2,Lubbock,United States of America,Female,152057,8869
+Paula.Anderson@hookfish.com,Paula,Anderson,2014-06-09,full time,Front of house,5,Jersey City,United States of America,Male,293081,7672
+Barbara.Bailey@hookfish.com,Barbara,Bailey,2016-02-03,full time,Front of house,3,New York,United States of America,Female,268885,12420

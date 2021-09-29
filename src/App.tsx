@@ -1,26 +1,56 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
-function App() {
+import {
+  Legend,
+  Line,
+  LineChart,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
+
+import EmploymentTypeOverTimeChart from "./components/EmploymentTypeOverTimeChart";
+import GenderBarChart from "./components/GenderBarChart";
+import { useRestaurantData } from "./useRestaurantData";
+
+export default function App(): JSX.Element {
+  const [restaurantData, isLoading] = useRestaurantData();
+
+  // let d = Array();
+  // restaurantData.forEach((employee) => {
+  //   if (!d.includes(employee.gender)) {
+  //     d.push(employee.gender);
+  //   }
+  // });
+
+  // console.log(d);
+
+  const genderBarChart = (
+    <div className="chart-container">
+      <h1>Salary by Level and Gender</h1>
+      <ResponsiveContainer width="50%">
+        <GenderBarChart employees={restaurantData}></GenderBarChart>
+      </ResponsiveContainer>
+    </div>
+  );
+
+  const employmentTypeChart = (
+    <div className="chart-container">
+      <ResponsiveContainer width="50%">
+        <EmploymentTypeOverTimeChart
+          employees={restaurantData}
+        ></EmploymentTypeOverTimeChart>
+      </ResponsiveContainer>
+    </div>
+  );
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <div className="title-doc">Restaurant Group of San Francisco</div>
+      <div className="grid-display">
+        {genderBarChart} {employmentTypeChart}
+      </div>
     </div>
   );
 }
-
-export default App;

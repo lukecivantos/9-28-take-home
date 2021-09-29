@@ -1,0 +1,250 @@
+email,firstName,lastName,startDate,employmentType,department,level,city,country,gender,salary,bonus
+Patrick.Rogers@gamine.com,Patrick,Rogers,2015-05-25,fullTime,Operations,3,Anchorage,United States of America,Male,338287,22098
+Chris.Bailey@gamine.com,Chris,Bailey,2019-04-18,fullTime,Operations,2,Lubbock,United States of America,Female,252377,29569
+Ronald.Price@gamine.com,Ronald,Price,2019-12-14,fullTime,Management,5,Newark,United States of America,Female,114285,16228
+Gary.Bell@gamine.com,Gary,Bell,2018-12-28,fullTime,Operations,5,Newark,United States of America,Female,176146,17939
+Lisa.Lopez@gamine.com,Lisa,Lopez,2015-12-13,fullTime,Management,2,Honolulu,United States of America,Male,182073,32644
+Victor.Roberts@gamine.com,Victor,Roberts,2020-04-10,fullTime,Kitchen,5,Oklahoma City,United States of America,Female,110741,19387
+Norma.Turner@gamine.com,Norma,Turner,2018-01-11,fullTime,Operations,1,Boise,United States of America,Male,79631,15372
+Sarah.Brown@gamine.com,Sarah,Brown,2012-12-04,fullTime,Front of house,3,Norfolk,United States of America,Female,311680,29167
+Mildred.Stewart@gamine.com,Mildred,Stewart,2020-09-05,fullTime,Kitchen,5,Akron,United States of America,Female,332647,6207
+Paul.Patterson@gamine.com,Paul,Patterson,2015-02-19,fullTime,Operations,4,Akron,United States of America,Male,304476,27899
+Gerald.Powell@gamine.com,Gerald,Powell,2018-10-13,fullTime,Kitchen,3,Fort Worth,United States of America,Male,299426,24460
+Brandon.Hernandez@gamine.com,Brandon,Hernandez,2018-08-10,fullTime,Front of house,1,Albuquerque,United States of America,Female,281655,33056
+Richard.James@gamine.com,Richard,James,2013-01-02,fullTime,Operations,1,Virginia Beach,United States of America,Female,65070,23505
+Elizabeth.Young@gamine.com,Elizabeth,Young,2018-10-10,fullTime,Kitchen,1,Las Vegas,United States of America,Male,275099,5735
+Matthew.Phillips@gamine.com,Matthew,Phillips,2019-11-23,fullTime,Front of house,1,Riverside,United States of America,Female,197975,17311
+Arthur.King@gamine.com,Arthur,King,2015-03-27,fullTime,Operations,3,Henderson,United States of America,Female,113178,17179
+Mark.Evans@gamine.com,Mark,Evans,2018-06-16,fullTime,Front of house,2,Portland,United States of America,Female,192393,26240
+Denise.Simmons@gamine.com,Denise,Simmons,2019-10-23,fullTime,Operations,2,Boston,United States of America,Male,317613,27728
+Rebecca.Howard@gamine.com,Rebecca,Howard,2013-01-12,fullTime,Management,1,San Jose,United States of America,Female,253286,19590
+Ashley.Adams@gamine.com,Ashley,Adams,2019-07-24,fullTime,Management,2,Oakland,United States of America,Male,329430,26786
+Roy.Diaz@gamine.com,Roy,Diaz,2017-03-16,fullTime,Kitchen,1,Arlington,United States of America,Female,70259,21171
+Lillian.Griffin@gamine.com,Lillian,Griffin,2017-03-16,fullTime,Front of house,4,Greensboro,United States of America,Female,257849,14133
+Sandra.Collins@gamine.com,Sandra,Collins,2015-05-29,fullTime,Operations,3,Montgomery,United States of America,Male,291557,10345
+Nancy.Robinson@gamine.com,Nancy,Robinson,2013-09-11,fullTime,Management,4,St. Louis,United States of America,Male,195990,17428
+Jeremy.Carter@gamine.com,Jeremy,Carter,2015-06-28,fullTime,Operations,5,Fort Worth,United States of America,Female,133674,9161
+Shawn.Washington@gamine.com,Shawn,Washington,2012-07-05,fullTime,Operations,3,San Diego,United States of America,Female,133253,27282
+Alan.Coleman@gamine.com,Alan,Coleman,2016-06-07,fullTime,Operations,5,Portland,United States of America,Male,58177,33894
+Todd.Bennett@gamine.com,Todd,Bennett,2015-05-30,fullTime,Management,3,Riverside,United States of America,Female,116164,19571
+Margaret.Russell@gamine.com,Margaret,Russell,2018-08-03,fullTime,Management,5,Chesapeake,United States of America,Female,161143,25909
+Gloria.Parker@gamine.com,Gloria,Parker,2014-12-21,fullTime,Kitchen,4,Detroit,United States of America,Female,192724,21250
+Phyllis.Moore@gamine.com,Phyllis,Moore,2018-06-04,fullTime,Kitchen,4,Fort Worth,United States of America,Male,178776,30173
+George.Torres@gamine.com,George,Torres,2016-06-19,fullTime,Operations,2,San Bernardino,United States of America,Female,150019,22623
+Christine.Gonzales@gamine.com,Christine,Gonzales,2017-04-28,fullTime,Management,2,Tampa,United States of America,Male,200920,7110
+Thomas.Ross@gamine.com,Thomas,Ross,2015-08-30,fullTime,Management,4,Los Angeles,United States of America,Female,207078,7902
+Craig.Wright@gamine.com,Craig,Wright,2013-10-04,fullTime,Operations,5,Henderson,United States of America,Female,119032,27622
+Jean.Bryant@gamine.com,Jean,Bryant,2013-12-23,fullTime,Kitchen,4,Santa Ana,United States of America,Male,324028,5046
+Catherine.Cox@gamine.com,Catherine,Cox,2012-02-14,fullTime,Operations,5,Jacksonville,United States of America,Male,320069,21200
+Kathleen.Ramirez@gamine.com,Kathleen,Ramirez,2019-11-20,fullTime,Management,5,Milwaukee,United States of America,Female,311850,24216
+Lawrence.Campbell@gamine.com,Lawrence,Campbell,2014-04-25,fullTime,Management,4,Norfolk,United States of America,Female,253414,17471
+Carl.Jones@gamine.com,Carl,Jones,2018-01-23,fullTime,Front of house,2,Anaheim,United States of America,Male,156811,19187
+Clarence.Walker@gamine.com,Clarence,Walker,2014-02-04,fullTime,Management,4,Santa Ana,United States of America,Female,73520,32582
+Jacqueline.Foster@gamine.com,Jacqueline,Foster,2013-01-23,fullTime,Management,2,Nashville-Davidson,United States of America,Female,118571,12113
+Aaron.Hill@gamine.com,Aaron,Hill,2014-11-20,fullTime,Management,5,Mesa,United States of America,Female,94200,9889
+Joe.Nelson@gamine.com,Joe,Nelson,2020-06-24,fullTime,Management,4,Chula Vista,United States of America,Male,282213,17345
+Albert.Davis@gamine.com,Albert,Davis,2012-05-21,fullTime,Front of house,4,Kansas City,United States of America,Female,141428,17191
+Bruce.Kelly@gamine.com,Bruce,Kelly,2012-01-24,fullTime,Front of house,5,Boise,United States of America,Male,256027,31662
+Juan.Reed@gamine.com,Juan,Reed,2020-04-11,fullTime,Kitchen,5,Fresno,United States of America,Female,130081,14988
+Frank.Garcia@gamine.com,Frank,Garcia,2012-07-18,fullTime,Kitchen,4,El Paso,United States of America,Female,273681,18820
+Phillip.Baker@gamine.com,Phillip,Baker,2013-02-22,fullTime,Kitchen,4,Bakersfield,United States of America,Male,69728,32729
+Louise.Flores@gamine.com,Louise,Flores,2017-11-11,fullTime,Front of house,4,Toledo,United States of America,Male,336482,11037
+James.Brooks@gamine.com,James,Brooks,2018-05-31,fullTime,Management,4,Anaheim,United States of America,Female,165830,11285
+Stephanie.Clark@gamine.com,Stephanie,Clark,2018-01-31,fullTime,Management,4,Charlotte,United States of America,Female,77751,22529
+Brenda.Murphy@gamine.com,Brenda,Murphy,2019-11-04,fullTime,Operations,4,Chandler,United States of America,Male,276887,24735
+Donald.Lewis@gamine.com,Donald,Lewis,2013-05-10,fullTime,Kitchen,3,Birmingham,United States of America,Female,279645,10451
+Amy.Richardson@gamine.com,Amy,Richardson,2012-07-16,fullTime,Operations,4,Henderson,United States of America,Female,329281,21056
+Henry.Long@gamine.com,Henry,Long,2014-06-24,fullTime,Operations,3,Stockton,United States of America,Female,280196,6217
+Shirley.Martinez@gamine.com,Shirley,Martinez,2019-01-31,fullTime,Front of house,1,Lexington-Fayette,United States of America,Male,157353,5404
+Joan.Thompson@gamine.com,Joan,Thompson,2016-02-04,fullTime,Management,1,San Jose,United States of America,Female,151077,18151
+Annie.Gonzalez@gamine.com,Annie,Gonzalez,2016-02-22,fullTime,Front of house,5,Los Angeles,United States of America,Male,325799,10927
+Evelyn.Lee@gamine.com,Evelyn,Lee,2015-01-06,fullTime,Operations,2,Fort Wayne,United States of America,Female,165128,18729
+Jonathan.Rodriguez@gamine.com,Jonathan,Rodriguez,2012-05-03,fullTime,Kitchen,3,St. Petersburg,United States of America,Female,346033,15434
+Johnny.Watson@gamine.com,Johnny,Watson,2012-01-17,fullTime,Kitchen,1,San Jose,United States of America,Male,119466,33884
+Steven.Scott@gamine.com,Steven,Scott,2014-06-30,fullTime,Operations,4,Honolulu,United States of America,Male,58654,13926
+Joseph.Miller@gamine.com,Joseph,Miller,2014-10-19,fullTime,Kitchen,3,Tulsa,United States of America,Female,266514,30987
+Michelle.Smith@gamine.com,Michelle,Smith,2018-09-28,fullTime,Management,5,Albuquerque,United States of America,Female,85817,8399
+Larry.Alexander@gamine.com,Larry,Alexander,2019-01-20,fullTime,Operations,4,Baltimore,United States of America,Male,232363,34794
+Jennifer.Sanders@gamine.com,Jennifer,Sanders,2015-04-30,fullTime,Management,1,Hialeah,United States of America,Female,340612,34029
+Steve.Thomas@gamine.com,Steve,Thomas,2015-07-31,fullTime,Kitchen,1,New Orleans,United States of America,Female,201446,30583
+Kevin.Taylor@gamine.com,Kevin,Taylor,2015-03-14,fullTime,Management,2,Plano,United States of America,Female,276141,20837
+Diane.Ward@gamine.com,Diane,Ward,2016-09-08,fullTime,Front of house,1,Seattle,United States of America,Male,145654,9566
+Carlos.Perez@gamine.com,Carlos,Perez,2020-09-21,fullTime,Kitchen,2,Aurora,United States of America,Female,73478,15306
+Marilyn.White@gamine.com,Marilyn,White,2019-07-25,fullTime,Front of house,4,New Orleans,United States of America,Male,138339,31710
+Angela.Anderson@gamine.com,Angela,Anderson,2020-04-12,fullTime,Front of house,5,Houston,United States of America,Female,162099,28536
+Douglas.Butler@gamine.com,Douglas,Butler,2014-05-29,fullTime,Management,1,Colorado Springs,United States of America,Female,286984,5512
+Theresa.Green@gamine.com,Theresa,Green,2014-06-12,fullTime,Operations,1,Minneapolis,United States of America,Male,143464,12267
+Laura.Barnes@gamine.com,Laura,Barnes,2017-05-31,fullTime,Operations,2,St. Louis,United States of America,Male,192488,23650
+Ann.Allen@gamine.com,Ann,Allen,2017-12-21,fullTime,Front of house,2,Lincoln,United States of America,Female,139552,32492
+Karen.Wilson@gamine.com,Karen,Wilson,2012-11-16,fullTime,Operations,1,Honolulu,United States of America,Female,198326,15919
+Lori.Gray@gamine.com,Lori,Gray,2012-10-11,fullTime,Management,2,Aurora,United States of America,Male,150449,14538
+Donna.Cook@gamine.com,Donna,Cook,2020-05-26,fullTime,Front of house,5,Stockton,United States of America,Female,349864,29514
+Ruby.Rivera@gamine.com,Ruby,Rivera,2020-04-01,fullTime,Operations,5,Pittsburgh,United States of America,Female,204309,10640
+Marie.Williams@gamine.com,Marie,Williams,2019-09-17,fullTime,Operations,3,Albuquerque,United States of America,Female,333712,16596
+Jason.Sanchez@gamine.com,Jason,Sanchez,2012-07-15,fullTime,Front of house,4,Corpus Christi,United States of America,Male,219341,23011
+Louis.Harris@gamine.com,Louis,Harris,2018-11-03,fullTime,Kitchen,1,Memphis,United States of America,Female,72861,32180
+Tammy.Mitchell@gamine.com,Tammy,Mitchell,2017-02-16,fullTime,Kitchen,4,St. Paul,United States of America,Male,123942,17511
+Wanda.Wood@gamine.com,Wanda,Wood,2013-11-29,fullTime,Management,1,Virginia Beach,United States of America,Female,70825,30957
+Rose.Morgan@gamine.com,Rose,Morgan,2015-09-08,fullTime,Kitchen,1,St. Petersburg,United States of America,Female,162514,12196
+Cynthia.Peterson@gamine.com,Cynthia,Peterson,2016-09-22,fullTime,Operations,1,Chesapeake,United States of America,Male,315209,13876
+Andrew.Edwards@gamine.com,Andrew,Edwards,2015-01-24,fullTime,Front of house,1,Madison,United States of America,Male,138317,15189
+Debra.Morris@gamine.com,Debra,Morris,2020-03-05,fullTime,Kitchen,2,Boston,United States of America,Female,129092,11936
+Jane.Jenkins@gamine.com,Jane,Jenkins,2012-02-07,fullTime,Kitchen,2,Memphis,United States of America,Female,195784,22104
+Sara.Johnson@gamine.com,Sara,Johnson,2016-05-27,fullTime,Operations,4,Baltimore,United States of America,Male,315256,8971
+Anthony.Hughes@gamine.com,Anthony,Hughes,2015-01-18,fullTime,Operations,2,Nashville-Davidson,United States of America,Female,108477,25935
+Michael.Jackson@gamine.com,Michael,Jackson,2016-07-06,fullTime,Kitchen,3,Wichita,United States of America,Female,202401,21954
+Katherine.Hall@gamine.com,Katherine,Hall,2012-10-08,fullTime,Kitchen,3,Toledo,United States of America,Female,174503,10743
+Walter.Perry@gamine.com,Walter,Perry,2013-10-04,fullTime,Management,4,Orlando,United States of America,Male,330691,21358
+Diana.Cooper@gamine.com,Diana,Cooper,2017-11-17,fullTime,Kitchen,1,Mesa,United States of America,Female,229360,14184
+Charles.Martin@gamine.com,Charles,Martin,2012-09-14,fullTime,Management,1,New Orleans,United States of America,Male,61313,7437
+Anne.Henderson@gamine.com,Anne,Henderson,2019-02-02,fullTime,Front of house,4,Aurora,United States of America,Female,171515,21695
+Barbara.Morgan@gamine.com,Barbara,Morgan,2017-02-15,fullTime,Management,1,Mesa,United States of America,Female,193567,26208
+Douglas.Watson@gamine.com,Douglas,Watson,2013-05-10,fullTime,Management,2,Nashville-Davidson,United States of America,Male,178305,19831
+Russell.Anderson@gamine.com,Russell,Anderson,2017-06-08,fullTime,Operations,3,Las Vegas,United States of America,Male,345784,9917
+Billy.Cooper@gamine.com,Billy,Cooper,2013-07-31,fullTime,Operations,3,El Paso,United States of America,Female,61450,21479
+Carlos.Sanders@gamine.com,Carlos,Sanders,2014-12-29,fullTime,Operations,3,Chula Vista,United States of America,Female,59823,30951
+Lori.Perry@gamine.com,Lori,Perry,2017-12-20,fullTime,Front of house,1,Madison,United States of America,Male,75672,10370
+Frank.Wilson@gamine.com,Frank,Wilson,2014-09-05,fullTime,Kitchen,3,Lincoln,United States of America,Female,100030,29988
+Richard.Kelly@gamine.com,Richard,Kelly,2013-09-21,fullTime,Kitchen,4,Colorado Springs,United States of America,Female,87586,13805
+Tina.Young@gamine.com,Tina,Young,2015-04-13,fullTime,Kitchen,3,Baltimore,United States of America,Female,53686,20597
+Helen.Clark@gamine.com,Helen,Clark,2014-02-25,fullTime,Kitchen,3,El Paso,United States of America,Male,184052,6813
+Johnny.Washington@gamine.com,Johnny,Washington,2015-02-01,fullTime,Operations,5,Honolulu,United States of America,Female,121088,14488
+Rachel.Price@gamine.com,Rachel,Price,2017-07-19,fullTime,Operations,1,Houston,United States of America,Male,133573,18145
+John.Harris@gamine.com,John,Harris,2018-01-31,fullTime,Management,2,Chicago,United States of America,Female,202369,8632
+Kelly.Gonzalez@gamine.com,Kelly,Gonzalez,2018-12-26,fullTime,Front of house,2,North Hempstead,United States of America,Female,242600,6856
+Debra.Davis@gamine.com,Debra,Davis,2015-03-21,fullTime,Management,2,Columbus,United States of America,Male,247947,8147
+Carl.Hall@gamine.com,Carl,Hall,2018-01-18,fullTime,Management,5,Aurora,United States of America,Male,200806,16173
+Lisa.Martinez@gamine.com,Lisa,Martinez,2014-03-11,fullTime,Kitchen,3,Las Vegas,United States of America,Female,105895,6546
+Lois.Edwards@gamine.com,Lois,Edwards,2016-12-03,fullTime,Front of house,5,Philadelphia,United States of America,Female,207494,27745
+Laura.Hughes@gamine.com,Laura,Hughes,2012-10-20,fullTime,Operations,1,Dallas,United States of America,Male,145959,28014
+Joan.Murphy@gamine.com,Joan,Murphy,2015-08-25,fullTime,Kitchen,2,Oklahoma City,United States of America,Female,188925,8048
+Alan.Mitchell@gamine.com,Alan,Mitchell,2019-04-26,fullTime,Operations,3,Detroit,United States of America,Female,258491,15328
+Stephanie.Martin@gamine.com,Stephanie,Martin,2017-09-17,fullTime,Management,3,St. Paul,United States of America,Female,274657,20782
+Joshua.Lopez@gamine.com,Joshua,Lopez,2020-07-21,fullTime,Kitchen,2,Anchorage,United States of America,Male,278863,25651
+Stephen.Parker@gamine.com,Stephen,Parker,2017-12-19,fullTime,Front of house,4,Jersey City,United States of America,Female,223104,20216
+Kimberly.Campbell@gamine.com,Kimberly,Campbell,2012-06-17,fullTime,Operations,4,Cincinnati,United States of America,Male,253956,6014
+Joseph.Bailey@gamine.com,Joseph,Bailey,2016-08-01,fullTime,Management,4,Oklahoma City,United States of America,Female,64537,11629
+Rose.Gonzales@gamine.com,Rose,Gonzales,2013-02-08,fullTime,Front of house,2,Santa Ana,United States of America,Female,334722,25566
+Brenda.King@gamine.com,Brenda,King,2020-07-23,fullTime,Kitchen,3,Hialeah,United States of America,Male,284617,18973
+Ruby.Taylor@gamine.com,Ruby,Taylor,2016-12-13,fullTime,Front of house,2,Buffalo,United States of America,Male,85690,31755
+Jeffrey.Turner@gamine.com,Jeffrey,Turner,2016-07-01,fullTime,Operations,4,Charlotte,United States of America,Female,292953,31566
+Steve.Peterson@gamine.com,Steve,Peterson,2020-01-09,fullTime,Operations,5,Plano,United States of America,Female,307917,5624
+Sean.Wood@gamine.com,Sean,Wood,2016-07-23,fullTime,Kitchen,2,Lubbock,United States of America,Male,288094,18417
+Fred.Walker@gamine.com,Fred,Walker,2014-08-26,fullTime,Operations,5,Honolulu,United States of America,Female,157208,14916
+Steven.Scott@gamine.com,Steven,Scott,2013-06-30,fullTime,Kitchen,3,Fort Wayne,United States of America,Female,261449,28785
+Clarence.Nelson@gamine.com,Clarence,Nelson,2015-04-03,fullTime,Management,5,San Bernardino,United States of America,Female,84215,17460
+Terry.Barnes@gamine.com,Terry,Barnes,2015-11-04,fullTime,Front of house,2,Scottsdale,United States of America,Male,302171,9435
+Harry.Johnson@gamine.com,Harry,Johnson,2015-09-21,fullTime,Management,1,Tampa,United States of America,Female,204463,15343
+Shirley.Bryant@gamine.com,Shirley,Bryant,2020-05-14,fullTime,Operations,1,Portland,United States of America,Male,281047,24064
+Betty.Bennett@gamine.com,Betty,Bennett,2015-12-20,fullTime,Front of house,1,Colorado Springs,United States of America,Female,159960,12122
+Rebecca.Evans@gamine.com,Rebecca,Evans,2019-05-01,fullTime,Kitchen,5,Arlington,United States of America,Female,174151,31910
+Doris.Adams@gamine.com,Doris,Adams,2019-03-14,fullTime,Operations,4,Boston,United States of America,Male,50511,10104
+Walter.Smith@gamine.com,Walter,Smith,2012-01-10,fullTime,Operations,4,Fort Wayne,United States of America,Male,54705,14277
+Julia.Butler@gamine.com,Julia,Butler,2015-04-02,fullTime,Operations,3,Aurora,United States of America,Female,139307,33725
+Craig.Lee@gamine.com,Craig,Lee,2015-09-03,fullTime,Operations,5,Lubbock,United States of America,Female,59478,14664
+Henry.Jackson@gamine.com,Henry,Jackson,2015-03-16,fullTime,Front of house,3,Raleigh,United States of America,Male,178924,31856
+Joyce.Cook@gamine.com,Joyce,Cook,2017-03-14,fullTime,Management,3,Boston,United States of America,Female,329576,32352
+Catherine.Green@gamine.com,Catherine,Green,2014-02-16,fullTime,Operations,3,Philadelphia,United States of America,Female,84020,10932
+Larry.Baker@gamine.com,Larry,Baker,2019-01-31,Part time,Operations,2,Norfolk,United States of America,Female,154538,24391
+Irene.Brooks@gamine.com,Irene,Brooks,2013-12-10,Part time,Operations,3,San Francisco,United States of America,Male,95899,25505
+Roy.Torres@gamine.com,Roy,Torres,2018-08-01,Part time,Kitchen,2,Cleveland,United States of America,Female,344103,27341
+Patrick.White@gamine.com,Patrick,White,2016-05-15,Part time,Kitchen,4,Wichita,United States of America,Male,279495,6559
+Heather.Jones@gamine.com,Heather,Jones,2016-04-16,Part time,Front of house,4,Cincinnati,United States of America,Female,94730,13800
+Howard.Williams@gamine.com,Howard,Williams,2017-09-02,Part time,Operations,1,Omaha,United States of America,Female,85312,24330
+Maria.Thompson@gamine.com,Maria,Thompson,2013-09-22,Part time,Management,3,Lincoln,United States of America,Male,109760,19312
+Frances.Ramirez@gamine.com,Frances,Ramirez,2012-07-26,Part time,Management,5,Buffalo,United States of America,Male,246146,22694
+Thomas.Thomas@gamine.com,Thomas,Thomas,2014-10-31,Part time,Management,1,Arlington,United States of America,Female,212720,12738
+David.Howard@gamine.com,David,Howard,2013-01-18,Part time,Operations,1,Norfolk,United States of America,Female,151203,32982
+Andrea.Rivera@gamine.com,Andrea,Rivera,2012-09-30,Part time,Operations,2,Fort Worth,United States of America,Male,120710,34566
+Kathleen.Roberts@gamine.com,Kathleen,Roberts,2015-07-31,Part time,Front of house,1,Anaheim,United States of America,Female,146515,7502
+Keith.Simmons@gamine.com,Keith,Simmons,2015-09-30,Part time,Management,1,Toledo,United States of America,Female,278871,29897
+Pamela.Lewis@gamine.com,Pamela,Lewis,2019-02-18,Part time,Kitchen,1,Lincoln,United States of America,Female,227596,8309
+Albert.Foster@gamine.com,Albert,Foster,2019-12-06,Part time,Front of house,4,Atlanta,United States of America,Male,290633,32107
+Judy.Griffin@gamine.com,Judy,Griffin,2015-01-18,Part time,Management,1,Scottsdale,United States of America,Female,327969,12879
+Sarah.Phillips@gamine.com,Sarah,Phillips,2014-12-02,Part time,Kitchen,4,Lincoln,United States of America,Male,243045,25633
+Samuel.Richardson@gamine.com,Samuel,Richardson,2012-12-23,Part time,Kitchen,4,Garland,United States of America,Female,138719,10793
+Philip.Coleman@gamine.com,Philip,Coleman,2012-05-25,Part time,Kitchen,5,Lubbock,United States of America,Female,288111,18481
+Marilyn.Russell@gamine.com,Marilyn,Russell,2012-09-09,Part time,Front of house,4,El Paso,United States of America,Male,225292,12926
+Janet.Patterson@gamine.com,Janet,Patterson,2012-11-21,Part time,Management,4,Cleveland,United States of America,Male,154217,27571
+Janice.Collins@gamine.com,Janice,Collins,2012-11-20,Part time,Operations,1,Fresno,United States of America,Female,72965,12320
+Wayne.Hernandez@gamine.com,Wayne,Hernandez,2014-10-17,Part time,Management,1,Philadelphia,United States of America,Female,194307,26261
+Sharon.Reed@gamine.com,Sharon,Reed,2020-01-28,Part time,Front of house,5,Chandler,United States of America,Male,59364,14079
+Joe.Moore@gamine.com,Joe,Moore,2014-08-29,Part time,Front of house,3,Pittsburgh,United States of America,Female,270527,33271
+Jesse.Flores@gamine.com,Jesse,Flores,2018-12-05,Part time,Front of house,2,Tucson,United States of America,Female,282780,19425
+Jeremy.Long@gamine.com,Jeremy,Long,2016-01-25,Part time,Management,5,San Jose,United States of America,Female,235837,24311
+Ralph.Ross@gamine.com,Ralph,Ross,2013-09-13,Part time,Management,1,Cincinnati,United States of America,Male,68726,20421
+Aaron.Henderson@gamine.com,Aaron,Henderson,2015-02-10,Part time,Management,1,Boise,United States of America,Female,344973,34660
+Diane.Rodriguez@gamine.com,Diane,Rodriguez,2017-01-15,Part time,Front of house,3,Laredo,United States of America,Male,151666,14851
+Evelyn.Morris@gamine.com,Evelyn,Morris,2017-07-29,Part time,Management,2,Long Beach,United States of America,Female,225701,30069
+Jonathan.Jenkins@gamine.com,Jonathan,Jenkins,2018-12-29,Part time,Kitchen,3,New Orleans,United States of America,Female,98674,13378
+Jose.Perez@gamine.com,Jose,Perez,2012-08-28,Part time,Management,4,Oklahoma City,United States of America,Male,328936,30735
+Jane.Gray@gamine.com,Jane,Gray,2020-07-31,Part time,Management,4,North Hempstead,United States of America,Male,338901,26616
+Angela.Bell@gamine.com,Angela,Bell,2014-12-31,Part time,Operations,5,St. Louis,United States of America,Female,143947,10117
+Eugene.Diaz@gamine.com,Eugene,Diaz,2018-10-11,Part time,Management,3,Birmingham,United States of America,Female,263577,24982
+Earl.Cox@gamine.com,Earl,Cox,2017-11-19,Part time,Management,3,Garland,United States of America,Male,176601,16938
+Diana.Miller@gamine.com,Diana,Miller,2020-06-11,Part time,Operations,4,El Paso,United States of America,Female,302011,31189
+Gerald.Allen@gamine.com,Gerald,Allen,2014-10-11,Part time,Operations,2,Arlington,United States of America,Female,193828,34906
+Virginia.James@gamine.com,Virginia,James,2016-07-12,Part time,Front of house,5,Akron,United States of America,Female,321993,12720
+George.Robinson@gamine.com,George,Robinson,2014-08-29,Part time,Front of house,1,Jersey City,United States of America,Male,237855,26900
+Ruth.Brown@gamine.com,Ruth,Brown,2020-06-24,Part time,Front of house,5,Scottsdale,United States of America,Female,222825,18058
+Louise.Alexander@gamine.com,Louise,Alexander,2013-01-18,Part time,Kitchen,3,Glendale,United States of America,Male,156900,12803
+Cynthia.Garcia@gamine.com,Cynthia,Garcia,2018-04-29,Part time,Management,4,Lexington-Fayette,United States of America,Female,251563,15811
+Michelle.Hill@gamine.com,Michelle,Hill,2019-01-06,Part time,Management,1,Stockton,United States of America,Female,314050,10603
+Bruce.Wright@gamine.com,Bruce,Wright,2012-10-08,Part time,Front of house,5,Jacksonville,United States of America,Male,250080,30956
+Kathryn.Sanchez@gamine.com,Kathryn,Sanchez,2015-01-06,Part time,Kitchen,5,Greensboro,United States of America,Male,309944,18404
+Charles.Powell@gamine.com,Charles,Powell,2014-08-19,Part time,Front of house,1,Birmingham,United States of America,Female,62444,28437
+Jerry.Carter@gamine.com,Jerry,Carter,2018-08-01,Part time,Front of house,4,Honolulu,United States of America,Female,76204,8196
+Nicholas.Ward@gamine.com,Nicholas,Ward,2020-03-25,Part time,Front of house,5,Washington,United States of America,Male,205256,23043
+Todd.Stewart@gamine.com,Todd,Stewart,2019-10-30,Part time,Operations,1,Anchorage,United States of America,Female,77711,31871
+Raymond.Rogers@gamine.com,Raymond,Rogers,2020-10-16,Part time,Kitchen,5,Omaha,United States of America,Female,111309,22429
+Ronald.Evans@gamine.com,Ronald,Evans,2016-11-26,Part time,Operations,1,Chandler,United States of America,Female,299861,12587
+Lillian.Jenkins@gamine.com,Lillian,Jenkins,2020-05-11,Part time,Management,1,Kansas City,United States of America,Male,197596,7101
+Clarence.Miller@gamine.com,Clarence,Miller,2019-03-25,Part time,Management,1,Arlington,United States of America,Female,109726,21941
+Theresa.Reed@gamine.com,Theresa,Reed,2019-06-25,Part time,Front of house,1,Lexington-Fayette,United States of America,Male,213743,34241
+Alice.Bennett@gamine.com,Alice,Bennett,2014-08-20,Part time,Front of house,2,St. Louis,United States of America,Female,187306,34204
+Kathryn.Hernandez@gamine.com,Kathryn,Hernandez,2013-06-30,Part time,Operations,2,Arlington,United States of America,Female,162863,13426
+Christina.Harris@gamine.com,Christina,Harris,2012-11-27,Part time,Kitchen,4,Los Angeles,United States of America,Male,322549,7270
+Joseph.Martin@gamine.com,Joseph,Martin,2019-09-18,Part time,Management,4,Portland,United States of America,Male,321469,33222
+Steve.Clark@gamine.com,Steve,Clark,2016-11-07,Part time,Management,4,Norfolk,United States of America,Female,160909,19704
+Denise.Murphy@gamine.com,Denise,Murphy,2020-10-19,Part time,Kitchen,4,Fort Wayne,United States of America,Female,337400,23325
+Earl.Stewart@gamine.com,Earl,Stewart,2012-05-05,contractor,Operations,4,Norfolk,United States of America,Male,117340,5996
+Todd.Sanders@gamine.com,Todd,Sanders,2016-02-26,contractor,Kitchen,3,Toledo,United States of America,Female,195511,23108
+Susan.Thompson@gamine.com,Susan,Thompson,2012-08-23,contractor,Front of house,3,New York,United States of America,Female,145805,14283
+Lori.Bailey@gamine.com,Lori,Bailey,2016-12-01,contractor,Front of house,4,Chula Vista,United States of America,Female,196365,24046
+Juan.James@gamine.com,Juan,James,2019-04-23,contractor,Management,2,Portland,United States of America,Male,285615,9505
+Melissa.Patterson@gamine.com,Melissa,Patterson,2012-09-28,contractor,Management,5,Miami,United States of America,Female,341188,8372
+Jane.Jones@gamine.com,Jane,Jones,2016-05-20,contractor,Front of house,3,Fort Wayne,United States of America,Male,255143,24038
+Joshua.Rodriguez@gamine.com,Joshua,Rodriguez,2012-05-13,contractor,Management,4,Austin,United States of America,Female,136927,33456
+Kevin.Cox@gamine.com,Kevin,Cox,2016-01-08,contractor,Management,1,Riverside,United States of America,Female,228197,27815
+Katherine.Cooper@gamine.com,Katherine,Cooper,2015-02-24,contractor,Management,4,Chandler,United States of America,Male,103196,11311
+Sharon.Flores@gamine.com,Sharon,Flores,2017-12-12,contractor,Kitchen,4,Henderson,United States of America,Male,80550,7051
+Philip.Butler@gamine.com,Philip,Butler,2017-08-01,contractor,Front of house,1,Glendale,United States of America,Female,182386,20464
+Mark.Smith@gamine.com,Mark,Smith,2019-07-17,contractor,Front of house,4,San Francisco,United States of America,Female,183614,21050
+George.Carter@gamine.com,George,Carter,2015-04-09,contractor,Operations,1,Nashville-Davidson,United States of America,Male,78424,7562
+Emily.Russell@gamine.com,Emily,Russell,2014-07-29,contractor,Operations,1,Buffalo,United States of America,Female,74074,13051
+Roger.Parker@gamine.com,Roger,Parker,2017-02-25,contractor,Kitchen,5,Wichita,United States of America,Female,229445,15109
+Arthur.Hill@gamine.com,Arthur,Hill,2017-07-19,contractor,Management,4,Raleigh,United States of America,Female,344393,15879
+Barbara.Watson@gamine.com,Barbara,Watson,2019-08-13,contractor,Operations,3,Austin,United States of America,Male,169543,9017
+Walter.Price@gamine.com,Walter,Price,2016-05-23,contractor,Kitchen,3,Colorado Springs,United States of America,Female,60926,29449
+Jason.Mitchell@gamine.com,Jason,Mitchell,2018-12-05,contractor,Management,5,Los Angeles,United States of America,Male,70172,24560
+Angela.Hall@gamine.com,Angela,Hall,2018-11-30,contractor,Kitchen,5,Houston,United States of America,Female,82725,18379
+Scott.Wood@gamine.com,Scott,Wood,2019-10-10,contractor,Front of house,3,Aurora,United States of America,Female,221386,11525
+Kelly.King@gamine.com,Kelly,King,2019-09-14,contractor,Management,2,El Paso,United States of America,Male,79276,16284
+Jean.Gray@gamine.com,Jean,Gray,2018-07-08,contractor,Management,4,Boston,United States of America,Male,125582,6683
+Julie.Richardson@gamine.com,Julie,Richardson,2016-04-17,contractor,Operations,5,Wichita,United States of America,Female,256627,20085
+Teresa.Campbell@gamine.com,Teresa,Campbell,2013-03-17,contractor,Kitchen,5,Aurora,United States of America,Female,317279,20080
+Raymond.Edwards@gamine.com,Raymond,Edwards,2018-12-31,contractor,Kitchen,1,Lincoln,United States of America,Male,78964,14642
+Michelle.Ross@gamine.com,Michelle,Ross,2014-05-12,contractor,Management,3,Fresno,United States of America,Female,277155,32682
+Brandon.Robinson@gamine.com,Brandon,Robinson,2017-01-04,contractor,Kitchen,4,Scottsdale,United States of America,Female,131409,10729
+Willie.Davis@gamine.com,Willie,Davis,2019-05-18,contractor,Management,2,Birmingham,United States of America,Female,227409,33562
+Amanda.Bell@gamine.com,Amanda,Bell,2019-11-05,contractor,Front of house,5,Cleveland,United States of America,Male,282973,9811
+Norma.White@gamine.com,Norma,White,2012-03-28,contractor,Front of house,3,Santa Ana,United States of America,Female,239871,13834
+Rose.Powell@gamine.com,Rose,Powell,2019-04-24,contractor,Operations,3,Fort Worth,United States of America,Male,148600,9399
+Ruby.Roberts@gamine.com,Ruby,Roberts,2013-12-12,contractor,Management,5,San Jose,United States of America,Female,238240,21430
+Sandra.Barnes@gamine.com,Sandra,Barnes,2019-08-13,contractor,Operations,1,San Antonio,United States of America,Female,240518,18872
+Phillip.Moore@gamine.com,Phillip,Moore,2012-07-17,contractor,Operations,5,Atlanta,United States of America,Male,53333,16574
+Patrick.Garcia@gamine.com,Patrick,Garcia,2018-10-14,contractor,Operations,5,Bakersfield,United States of America,Male,252160,11867
+Judith.Torres@gamine.com,Judith,Torres,2017-07-09,contractor,Operations,4,Arlington,United States of America,Female,116589,20055
+Nicholas.Perry@gamine.com,Nicholas,Perry,2013-04-15,contractor,Management,3,Tampa,United States of America,Female,183911,6452
+Dorothy.Wright@gamine.com,Dorothy,Wright,2014-11-04,contractor,Kitchen,1,Norfolk,United States of America,Male,342112,29342
+Margaret.Scott@gamine.com,Margaret,Scott,2015-04-09,contractor,Operations,5,Arlington,United States of America,Female,167145,26596

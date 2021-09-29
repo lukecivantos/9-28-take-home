@@ -1,7 +1,7 @@
 {
   "name": "pave-take-home-luke-civantos",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -13,6 +13,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "recharts": "^2.1.4",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
@@ -39,5 +40,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Take Home for Pave",
+  "main": "index.js",
+  "repository": "https://github.com/lukecivantos/9-28-take-home.git",
+  "author": "lfcivantos@gmail.com",
+  "license": "MIT"
 }
