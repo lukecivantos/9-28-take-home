@@ -8,15 +8,6 @@ import { useRestaurantData } from "./useRestaurantData";
 export default function App(): JSX.Element {
   const [restaurantData, isLoading] = useRestaurantData();
 
-  // let d = Array();
-  // restaurantData.forEach((employee) => {
-  //   if (!d.includes(employee.gender)) {
-  //     d.push(employee.gender);
-  //   }
-  // });
-
-  // console.log(d);
-
   const genderBarChart = (
     <div className="chart-container">
       <h1>Salary by Level and Gender</h1>
