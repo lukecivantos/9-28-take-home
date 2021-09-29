@@ -1,5 +1,6 @@
 import "./App.css";
 
+import DepartmentChart from "./components/DepartmentChart";
 import EmploymentTypeOverTimeChart from "./components/EmploymentTypeOverTimeChart";
 import GenderBarChart from "./components/GenderBarChart";
 import { ResponsiveContainer } from "recharts";
@@ -28,11 +29,21 @@ export default function App(): JSX.Element {
     </div>
   );
 
+  const departmentChart = (
+    <div className="chart-container">
+      <h1>Pay by Department</h1>
+      <ResponsiveContainer width="50%">
+        <DepartmentChart employees={restaurantData}></DepartmentChart>
+      </ResponsiveContainer>
+    </div>
+  );
+
   return (
     <div className="app">
       <div className="title-doc">Restaurant Group of San Francisco</div>
+      <hr className="horizontal-rule" />
       <div className="grid-display">
-        {genderBarChart} {employmentTypeChart}
+        {genderBarChart} {employmentTypeChart} {departmentChart}
       </div>
     </div>
   );

@@ -16,7 +16,7 @@ body {
   display: grid;
   padding: 16px;
   flex-direction: row;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
 }
 
 .chart-container {
@@ -33,4 +33,8 @@ body {
   display: inline-block;
   margin: 30px;
   padding: 16px;
+}
+
+.horizontal-rule {
+  width: 50%;
 }

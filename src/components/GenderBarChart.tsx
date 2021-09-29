@@ -24,6 +24,7 @@ type GenderData = {
 export default function GenderBarChart({ employees }: Props) {
   const [genderData, setGenderData] = useState<Array<GenderData>>([]);
   const [payType, setPayType] = useState<string>("salary");
+  const [restaurant, setRestaurant] = useState<string>("gamine");
 
   useEffect((): void => {
     let newData = Array<GenderData>();
@@ -34,6 +35,10 @@ export default function GenderBarChart({ employees }: Props) {
       let countMale: number = 0;
       for (let j = 0; j < employees.length; j++) {
         const employee = employees[j];
+        if (restaurant !== employee.restaurant) {
+          continue;
+        }
+
         if (employee.level === i) {
           const pay = payType === "salary" ? employee.salary : employee.bonus;
           if (employee.gender === "Female") {
@@ -52,7 +57,7 @@ export default function GenderBarChart({ employees }: Props) {
       });
     }
     setGenderData(newData);
-  }, [employees, payType]);
+  }, [employees, payType, restaurant]);
 
   return (
     <>
@@ -64,6 +69,15 @@ export default function GenderBarChart({ employees }: Props) {
       >
         <option value={"salary"}>Salary</option>
         <option value={"bonus"}>Bonus</option>
+      </select>
+      <select
+        value={restaurant}
+        onChange={(event) => {
+          setRestaurant(event.target.value);
+        }}
+      >
+        <option value={"gamine"}>Gamine</option>
+        <option value={"hookfish"}>Hookfish</option>
       </select>
       <BarChart width={500} height={250} data={genderData}>
         <CartesianGrid strokeDasharray="3 3" />

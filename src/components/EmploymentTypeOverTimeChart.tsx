@@ -17,6 +17,8 @@ type EmploymentTypeData = {
 
 export default function GenderBarChart({ employees }: Props) {
   const [levelSelected, setLevelSelected] = useState<string>("1");
+  const [restaurant, setRestaurant] = useState<string>("gamine");
+
   const [employmentTypeData, setEmploymentTypeData] = useState<
     Array<EmploymentTypeData>
   >([]);
@@ -25,6 +27,10 @@ export default function GenderBarChart({ employees }: Props) {
     let newData = Array<EmploymentTypeData>();
     for (let i = 0; i < employees.length; i++) {
       const employee = employees[i];
+      if (restaurant !== employee.restaurant) {
+        continue;
+      }
+
       if (employee.level === parseInt(levelSelected)) {
         newData.push({
           level: employee.level,
@@ -52,9 +58,7 @@ export default function GenderBarChart({ employees }: Props) {
     });
 
     setEmploymentTypeData(newData);
-  }, [employees, levelSelected]);
-
-  console.log(employmentTypeData);
+  }, [employees, levelSelected, restaurant]);
 
   return (
     <>
@@ -68,6 +72,15 @@ export default function GenderBarChart({ employees }: Props) {
         <option value={"2"}>Level 2</option>
         <option value={"3"}>Level 3</option>
         <option value={"4"}>Level 4</option>
+      </select>
+      <select
+        value={restaurant}
+        onChange={(event) => {
+          setRestaurant(event.target.value);
+        }}
+      >
+        <option value={"gamine"}>Gamine</option>
+        <option value={"hookfish"}>Hookfish</option>
       </select>
       <LineChart
         width={500}

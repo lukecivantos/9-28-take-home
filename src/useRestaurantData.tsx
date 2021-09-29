@@ -94,9 +94,9 @@ export function useRestaurantData(): [Array<Employee>, boolean] {
 
       const hookfishEmployees = parseEmployeeData(
         hookfishDataObject,
-        "Hookfish"
+        "hookfish"
       );
-      const gamineEmployees = parseEmployeeData(gamineDataObject, "Gamine");
+      const gamineEmployees = parseEmployeeData(gamineDataObject, "gamine");
 
       setEmployees(hookfishEmployees.concat(gamineEmployees));
       setIsLoading(false);
