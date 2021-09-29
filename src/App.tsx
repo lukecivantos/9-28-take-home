@@ -1,17 +1,8 @@
 import "./App.css";
 
-import {
-  Legend,
-  Line,
-  LineChart,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
-
 import EmploymentTypeOverTimeChart from "./components/EmploymentTypeOverTimeChart";
 import GenderBarChart from "./components/GenderBarChart";
+import { ResponsiveContainer } from "recharts";
 import { useRestaurantData } from "./useRestaurantData";
 
 export default function App(): JSX.Element {
@@ -37,6 +28,7 @@ export default function App(): JSX.Element {
 
   const employmentTypeChart = (
     <div className="chart-container">
+      <h1>Pay by Employment Type</h1>
       <ResponsiveContainer width="50%">
         <EmploymentTypeOverTimeChart
           employees={restaurantData}

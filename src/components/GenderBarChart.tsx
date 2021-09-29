@@ -23,6 +23,8 @@ type GenderData = {
 
 export default function GenderBarChart({ employees }: Props) {
   const [genderData, setGenderData] = useState<Array<GenderData>>([]);
+  const [payType, setPayType] = useState<string>("salary");
+
   useEffect((): void => {
     let newData = Array<GenderData>();
     for (let i = 1; i < 5; i++) {
@@ -33,11 +35,12 @@ export default function GenderBarChart({ employees }: Props) {
       for (let j = 0; j < employees.length; j++) {
         const employee = employees[j];
         if (employee.level === i) {
+          const pay = payType === "salary" ? employee.salary : employee.bonus;
           if (employee.gender === "Female") {
-            totalFemale = totalFemale + employee.salary;
+            totalFemale = totalFemale + pay;
             countFemale = countFemale + 1;
           } else if (employee.gender === "Male") {
-            totalMale = totalMale + employee.salary;
+            totalMale = totalMale + pay;
             countMale = countMale + 1;
           }
         }
@@ -49,17 +52,28 @@ export default function GenderBarChart({ employees }: Props) {
       });
     }
     setGenderData(newData);
-  }, [employees]);
+  }, [employees, payType]);
 
   return (
-    <BarChart width={500} height={250} data={genderData}>
-      <CartesianGrid strokeDasharray="3 3" />
-      <XAxis dataKey="level" />
-      <YAxis />
-      <Tooltip />
-      <Legend />
-      <Bar dataKey="male" fill="#8884d8" />
-      <Bar dataKey="female" fill="#82ca9d" />
-    </BarChart>
+    <>
+      <select
+        value={payType}
+        onChange={(event) => {
+          setPayType(event.target.value);
+        }}
+      >
+        <option value={"salary"}>Salary</option>
+        <option value={"bonus"}>Bonus</option>
+      </select>
+      <BarChart width={500} height={250} data={genderData}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="level" label={{ value: "Level", position: "bottom" }} />
+        <YAxis />
+        <Tooltip />
+        <Legend />
+        <Bar dataKey="male" fill="#8884d8" />
+        <Bar dataKey="female" fill="#82ca9d" />
+      </BarChart>
+    </>
   );
 }

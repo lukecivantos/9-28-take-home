@@ -44,6 +44,13 @@ export default function GenderBarChart({ employees }: Props) {
         });
       }
     }
+
+    newData.sort(function (a, b) {
+      if (a.startdate < b.startdate) return -1;
+      if (a.startdate > b.startdate) return 1;
+      return 0;
+    });
+
     setEmploymentTypeData(newData);
   }, [employees, levelSelected]);
 
