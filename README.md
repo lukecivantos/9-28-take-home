@@ -17,14 +17,14 @@
 
 ---
 
-## What kinds of practices should we look into?
+### What kinds of practices should we look into?
 
 - Gender disparities
 - Disparities with leveling
 - Bonus vs Salary
 - Disparities with employment type
 
-## Some notes on the data:
+### Some notes on the data:
 
 - All the employees are in the US
 - Notably the roughly 500 employees are split up across about 100 cities all in the US. I'm going to focus moreso on other disparities.
@@ -32,8 +32,17 @@
 
 --
 
-## Initial go at what I want to display:
+### Initial go at what I want to display:
 
 - Bar chart of gender salary by level with selector for bonus
 - Line chart of employment Type with selector for level
 - A display of pay by department
+
+---
+
+## Running the Visualization locally:
+
+- Clone the repository
+- Open terminal and cd into **9-28-take-home**
+- From terminal run `yarn start`
+- To build run `yarn build`
