@@ -23,6 +23,9 @@
 - Disparities with leveling
 - Bonus vs Salary
 - Disparities with employment type
+- Disparities in Department
+- Geographic Differences
+- Name Disparities
 
 ### Some notes on the data:
 
@@ -34,9 +37,13 @@
 
 ### Initial go at what I want to display:
 
+In order to focus on a few items I'm going to shoot at creating:
+
 - Bar chart of gender salary by level with selector for bonus
 - Line chart of employment Type with selector for level
 - A display of pay by department
+
+With extra time I'll add additional statistics if possible.
 
 ---
 
